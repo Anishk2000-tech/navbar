@@ -1,0 +1,84 @@
+#nav{
+    display: flex;
+    border: solid red;
+    justify-content: space-between;
+}
+
+#right{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    border: solid greenyellow;
+    margin-left: 88%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#head{
+    border: solid blue;
+    margin-top: 100px;
+}
+
+#left{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    border: solid black;
+    margin-right: 70%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 1%;
+}
+
+#sec{
+    border: solid green;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+#lft{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    border: solid violet;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 1%;
+}
+
+#cent{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-left: 5%;
+    border: solid violet;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#rgt{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    border: solid violet;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 2%;
+    margin-right: 12px;
+}
+body{
+    display: block;
+    margin: 0px;
+}
